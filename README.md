@@ -395,6 +395,4 @@ The source code also implements search, view, edit, delete, and logout functions
 **Name:** Eljen Armilla  
 **Section:** BSCS 2nd Year
 
-## GitHub Repository
 
-[SHSEnrollmentSystemV2](https://github.com/doughdong/SHSEnrollmentSystemV2)
