@@ -393,6 +393,6 @@ The source code also implements search, view, edit, delete, and logout functions
 ## Author
 
 **Name:** Eljen Armilla  
-**Section:** BSCS 2nd Year
+**Section:** CS26L(3851)
 
 
