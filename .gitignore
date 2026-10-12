@@ -1,1 +1,27 @@
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# PyCharm settings
+.idea/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local SQLite database
 school.db
+*.db-journal
+*.sqlite-journal
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
